@@ -2,3 +2,4 @@
 set -eu
 
 echo "ws-meta"
+# handle the edge case from the last release
